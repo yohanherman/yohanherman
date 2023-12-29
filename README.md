@@ -1,16 +1,37 @@
-### Hi there 👋
+# Welcome to my GitHub profile! 👋
 
-<!--
-**yohanherman/yohanherman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am currently in training to become a passionate web developer. My learning journey allows me to explore and enhance my skills in the fascinating field of web development.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages:** 
+  <img src="https://img.shields.io/badge/HTML5-Intermediate-orange" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-Intermediate-blue" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-Novice-yellow" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-Intermediate-blue?logo=php" alt="PHP">
+  <img src="https://img.shields.io/badge/SQL-Novice-blue?logo=postgresql" alt="SQL">
+  <img src="https://img.shields.io/badge/TypeScript-Novice-blue?logo=typescript" alt="TypeScript">
+- **Frameworks and Libraries:** 
+  <img src="https://img.shields.io/badge/Symfony-Novice-blue?logo=symfony" alt="Symfony">
+- **Tools:** 
+  <img src="https://img.shields.io/badge/Git-Expert-black?logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-Expert-blue?logo=visual-studio-code" alt="VS Code">
+  <img src="https://img.shields.io/badge/Docker-Novice-blue?logo=docker" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub-Intermediate-blue?logo=github" alt="GitHub">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Training Project 1](link_to_project_1) - Brief description of the project.
+- [Training Project 2](link_to_project_2) - Brief description of the project.
+
+## Contributions
+- Currently exploring opportunities to contribute to open source projects.
+
+## Contact
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📞 Phone: [+1 (555) 123-4567](tel:+15551234567)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](link_to_your_linkedin_profile)
+- [![Twitter](https://img.shields.io/badge/Twitter-Handle-blue)](link_to_your_twitter_account)
+
+Feel free to reach out via email or phone. You can also follow me on my web development learning journey! I am open to collaborating on exciting projects and exchanging ideas.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&count_private=true&hide=contribs,prs)
