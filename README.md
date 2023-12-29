@@ -1,23 +1,23 @@
 # Welcome to my GitHub profile! 👋
 
+![Bannière personnalisée](URL_de_votre_banniere_image)
+
 ## About Me
 I am currently in training to become a passionate web developer. My learning journey allows me to explore and enhance my skills in the fascinating field of web development.
 
 ## Skills
 - **Programming Languages:** 
-  <img src="https://img.shields.io/badge/HTML5-Intermediate-orange" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-Intermediate-blue" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-Novice-yellow" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-Intermediate-blue?logo=php" alt="PHP">
-  <img src="https://img.shields.io/badge/SQL-Novice-blue?logo=postgresql" alt="SQL">
-  <img src="https://img.shields.io/badge/TypeScript-Novice-blue?logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-blue?logo=php" alt="PHP">
+  <img src="https://img.shields.io/badge/SQL-blue?logo=postgresql" alt="SQL">
+  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript" alt="TypeScript">
 - **Frameworks and Libraries:** 
-  <img src="https://img.shields.io/badge/Symfony-Novice-blue?logo=symfony" alt="Symfony">
+  <img src="https://img.shields.io/badge/Symfony-blue?logo=symfony" alt="Symfony">
 - **Tools:** 
   <img src="https://img.shields.io/badge/Git-Expert-black?logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-Expert-blue?logo=visual-studio-code" alt="VS Code">
-  <img src="https://img.shields.io/badge/Docker-Novice-blue?logo=docker" alt="Docker">
-  <img src="https://img.shields.io/badge/GitHub-Intermediate-blue?logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visual-studio-code" alt="VS Code">
+  <img src="https://img.shields.io/badge/Docker-blue?logo=docker" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub-blue?logo=github" alt="GitHub">
 
 ## Projects
 - [Training Project 1](link_to_project_1) - Brief description of the project.
