@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! 👋
 
-![Bannière personnalisée](URL_de_votre_banniere_image)
+![Bannière personnalisée](https://www.figma.com/file/bjnngsNBY7Ulwla1hKZMm9/README-Github-Banner-(Community)?type=design&node-id=0%3A1&mode=design&t=KRZZQVsU9WRSzVy1-1)
 
 ## About Me
 I am currently in training to become a passionate web developer. My learning journey allows me to explore and enhance my skills in the fascinating field of web development.
@@ -8,14 +8,14 @@ I am currently in training to become a passionate web developer. My learning jou
 ## Skills
 - **Programming Languages:** 
   <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-yellow?logo=typescript" alt="TypeScript">
   <img src="https://img.shields.io/badge/Sass-yellow" alt="Sass">
   <img src="https://img.shields.io/badge/PHP-blue?logo=php" alt="PHP">
   <img src="https://img.shields.io/badge/SQL-blue?logo=postgresql" alt="SQL">
-  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript" alt="TypeScript">
 - **Frameworks and Libraries:** 
   <img src="https://img.shields.io/badge/Symfony-blue?logo=symfony" alt="Symfony">
 - **Tools:** 
-  <img src="https://img.shields.io/badge/Git-black?logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/Git-purple?logo=git" alt="Git">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visual-studio-code" alt="VS Code">
   <img src="https://img.shields.io/badge/Docker-blue?logo=docker" alt="Docker">
   <img src="https://img.shields.io/badge/GitHub-blue?logo=github" alt="GitHub">
