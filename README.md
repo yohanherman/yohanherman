@@ -3,7 +3,7 @@
 ![Bannière personnalisée]()
 
 ## About Me
-I am currently in training to become a passionate web developer. My learning journey allows me to explore and enhance my skills in the fascinating field of web development.
+My name is Johane Iam currently in training to become a passionate web developer. My learning journey allows me to explore and enhance my skills in the fascinating field of web development.
 
 ## Skills
 - **Programming Languages:** 
