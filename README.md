@@ -1,6 +1,7 @@
 # Welcome to my GitHub profile! 👋
 
 <img src="https://img.freepik.com/vecteurs-premium/dessin-anime-homme-travaillant-ordinateur_24908-15712.jpg?w=740" width="400" >
+
 ## About Me 
 My name is Johane Iam currently in training to become a passionate web developer. My learning journey allows me to explore and enhance my skills in the fascinating field of web development.
 
