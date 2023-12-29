@@ -28,8 +28,8 @@ I am currently in training to become a passionate web developer. My learning jou
 - Currently exploring opportunities to contribute to open source projects.
 
 ## Contact
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 📞 Phone: [+1 (555) 123-4567](tel:+15551234567)
+- 📧 Email: [johaneherman1995@gmail.com](mailto:johaneherman1995@gmail.com)
+- 📞 Phone: [+33 75 89 59 247](tel:+33758959247)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](link_to_your_linkedin_profile)
 - [![Twitter](https://img.shields.io/badge/Twitter-Handle-blue)](link_to_your_twitter_account)
 
