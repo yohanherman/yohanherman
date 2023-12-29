@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! 👋
 
-![Bannière personnalisée](https://www.figma.com/file/bjnngsNBY7Ulwla1hKZMm9/README-Github-Banner-(Community)?type=design&node-id=0%3A1&mode=design&t=KRZZQVsU9WRSzVy1-1)
+![Bannière personnalisée]()
 
 ## About Me
 I am currently in training to become a passionate web developer. My learning journey allows me to explore and enhance my skills in the fascinating field of web development.
