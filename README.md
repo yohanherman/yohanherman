@@ -8,13 +8,14 @@ I am currently in training to become a passionate web developer. My learning jou
 ## Skills
 - **Programming Languages:** 
   <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Sass-yellow" alt="Sass">
   <img src="https://img.shields.io/badge/PHP-blue?logo=php" alt="PHP">
   <img src="https://img.shields.io/badge/SQL-blue?logo=postgresql" alt="SQL">
   <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript" alt="TypeScript">
 - **Frameworks and Libraries:** 
   <img src="https://img.shields.io/badge/Symfony-blue?logo=symfony" alt="Symfony">
 - **Tools:** 
-  <img src="https://img.shields.io/badge/Git-Expert-black?logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/Git-black?logo=git" alt="Git">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visual-studio-code" alt="VS Code">
   <img src="https://img.shields.io/badge/Docker-blue?logo=docker" alt="Docker">
   <img src="https://img.shields.io/badge/GitHub-blue?logo=github" alt="GitHub">
