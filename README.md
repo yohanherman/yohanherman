@@ -29,7 +29,6 @@ My name is Johane Iam currently in training to become a passionate web developer
 
 ## Contact
 - 📧 Email: [johaneherman1995@gmail.com](mailto:johaneherman1995@gmail.com)
-- 📞 Phone: [+33 75 89 59 247](tel:+33758959247)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](link_to_your_linkedin_profile)
 - [![Twitter](https://img.shields.io/badge/Twitter-Handle-blue)](link_to_your_twitter_account)
 
