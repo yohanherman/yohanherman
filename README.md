@@ -15,8 +15,10 @@ My name is Johane Iam currently in training to become a passionate web developer
 - **Frameworks and Libraries:** 
   <img src="https://img.shields.io/badge/Symfony-blue?logo=symfony" alt="Symfony">
   ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express)
   ![Django](https://img.shields.io/badge/Django-green?logo=django)
   ![React](https://img.shields.io/badge/React-blue?logo=react)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css)
 - **Tools:** 
   <img src="https://img.shields.io/badge/Git-purple?logo=git" alt="Git">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visual-studio-code" alt="VS Code">
