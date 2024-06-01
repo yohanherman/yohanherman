@@ -14,6 +14,9 @@ My name is Johane Iam currently in training to become a passionate web developer
   <img src="https://img.shields.io/badge/SQL-blue?logo=postgresql" alt="SQL">
 - **Frameworks and Libraries:** 
   <img src="https://img.shields.io/badge/Symfony-blue?logo=symfony" alt="Symfony">
+  ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+  ![Django](https://img.shields.io/badge/Django-green?logo=django)
+  ![React](https://img.shields.io/badge/React-blue?logo=react)
 - **Tools:** 
   <img src="https://img.shields.io/badge/Git-purple?logo=git" alt="Git">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visual-studio-code" alt="VS Code">
