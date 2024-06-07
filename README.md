@@ -9,7 +9,6 @@ My name is Johane Iam currently in training to become a passionate web developer
 - **Programming Languages:** 
   <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-yellow?logo=typescript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Sass-yellow" alt="Sass">
   <img src="https://img.shields.io/badge/PHP-blue?logo=php" alt="PHP">
   <img src="https://img.shields.io/badge/SQL-blue?logo=postgresql" alt="SQL">
 - **Frameworks and Libraries:** 
