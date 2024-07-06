@@ -34,7 +34,7 @@ My name is Johane Iam currently in training to become a passionate web developer
 
 ## Contact
 - 📧 Email: [johaneherman1995@gmail.com](mailto:johaneherman1995@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](link_to_your_linkedin_profile)
+- [![www.linkedin.com/in/johane-herman-ngata-johanehermanngata](https://img.shields.io/badge/LinkedIn-Profile-blue)](link_to_your_linkedin_profile)
 - [![Twitter](https://img.shields.io/badge/Twitter-Handle-blue)](link_to_your_twitter_account)
 
 Feel free to reach out via email or phone. You can also follow me on my web development learning journey! I am open to collaborating on exciting projects and exchanging ideas.
