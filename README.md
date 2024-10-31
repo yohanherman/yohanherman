@@ -25,9 +25,6 @@ My name is Johane Iam currently in training to become a passionate web developer
   <img src="https://img.shields.io/badge/GitHub-blue?logo=github" alt="GitHub">
   <img src="https://img.shields.io/badge/AWS-Amazon%20Web%20Services-orange?logo=amazon-aws&style=flat" alt="aws">
 
-## Projects
-- [Training Project 1](link_to_project_1) - Brief description of the project.
-- [Training Project 2](link_to_project_2) - Brief description of the project.
 
 ## Contributions
 - Currently exploring opportunities to contribute to open source projects.
